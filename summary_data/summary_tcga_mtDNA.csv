@@ -16,6 +16,7 @@ sample,name,mtDNA_ID,dosage
 07f95427-39be-4884-b539-c9f3e329bebc_gdc_realn_rehead,mtDNA,MT,3435.3
 0813f7de-f80a-488b-a275-e4636629aca3_gdc_realn_rehead,mtDNA,MT,5848.37
 086e890b-cdc3-455e-84a8-66dbfa3aae11_gdc_realn_rehead,mtDNA,MT,6147.78
+088964d1-025c-4080-9cc9-11a233abcd7f_gdc_realn_rehead,mtDNA,MT,5831.65
 091d8ab7-7cad-4921-b2c2-4304ed611fc9_gdc_realn_rehead,mtDNA,MT,4920.78
 09646946-fcec-44b7-8b26-a7ce89012ab1_gdc_realn_rehead,mtDNA,MT,1692.9
 0a18b687-11be-427b-82a9-b11d80b0ea3d_gdc_realn_rehead,mtDNA,MT,6643.02
@@ -32,6 +33,7 @@ sample,name,mtDNA_ID,dosage
 108339cb-e827-4340-b52d-9b3cbb4e5165_gdc_realn_rehead,mtDNA,MT,5604.95
 10e0e7f3-3fc1-43f7-b7fc-7bb6a375d060_gdc_realn_rehead,mtDNA,MT,5524.88
 10e22941-6475-4f0b-8288-4e23e58864a6_gdc_realn_rehead,mtDNA,MT,6571.7
+1108c8ca-9630-44b9-ab41-f56286b4766f_gdc_realn_rehead,mtDNA,MT,5609.61
 1132c05d-00f1-4c3b-a0ed-06a735c82401_gdc_realn_rehead,mtDNA,MT,4774.89
 1198fd4b-6d38-4cb3-93b1-9a3b424fc339_gdc_realn_rehead,mtDNA,MT,6318.08
 11be0d17-30b2-45ce-8e14-432e0c9a628f_gdc_realn_rehead,mtDNA,MT,5814.61
@@ -40,6 +42,7 @@ sample,name,mtDNA_ID,dosage
 13ed08ee-d7e8-43bd-9ee1-7850140e8210_gdc_realn_rehead,mtDNA,MT,6637.88
 14e63f70-0dba-435f-a747-17239a97100f_gdc_realn_rehead,mtDNA,MT,6692.15
 14fe760a-b84e-4d6e-ab4f-56fbd5cf93ac_gdc_realn_rehead,mtDNA,MT,5570.1
+15f9814d-1a98-4579-9e59-9c4de59ffe01_gdc_realn_rehead,mtDNA,MT,5147.22
 1642360c-3217-42ce-b1c3-8a18c77a26be_gdc_realn_rehead,mtDNA,MT,4868.18
 169ff044-7e80-475a-8834-bfdb10180992_gdc_realn_rehead,mtDNA,MT,6154.21
 170eae5f-f32e-45e5-beda-848a84ad2fb4_gdc_realn_rehead,mtDNA,MT,5721.06
@@ -58,6 +61,7 @@ sample,name,mtDNA_ID,dosage
 1c0e230e-5838-4cb1-9f48-a5b5173dfd3e_gdc_realn_rehead,mtDNA,MT,5551.23
 1efde3b7-5fd9-4fee-bc1f-9cd9f5a3221d_gdc_realn_rehead,mtDNA,MT,6342.12
 1f3d2751-c60c-4c2f-bb9f-cc35c05903ab_gdc_realn_rehead,mtDNA,MT,6558.68
+201beb6e-8c73-432e-aafd-893e44ad6163_gdc_realn_rehead,mtDNA,MT,6201.65
 201d192c-9f30-445a-a0ac-f9534aab9902_gdc_realn_rehead,mtDNA,MT,4810.59
 20201e84-9484-4a28-9af6-d229f45c6703_gdc_realn_rehead,mtDNA,MT,4241.09
 208ee929-9039-43fb-8177-11631c297103_gdc_realn_rehead,mtDNA,MT,5293.08
@@ -97,9 +101,11 @@ sample,name,mtDNA_ID,dosage
 2cfd1613-48d7-467e-99f6-cb93b233c019_gdc_realn_rehead,mtDNA,MT,5730.23
 2d5e614b-ab16-4ff9-bb9a-0c1004890a77_gdc_realn_rehead,mtDNA,MT,5607.32
 2d75f728-595b-4489-af45-081055c80a90_gdc_realn_rehead,mtDNA,MT,5524.06
+2e9d32f5-a015-4eb9-8284-3bbec9f97272_gdc_realn_rehead,mtDNA,MT,5389.5
 2efe4617-99bc-4b18-9159-7739131c8aa9_gdc_realn_rehead,mtDNA,MT,6350.5
 2f3322db-f3cb-4a08-b81b-bba1703f55c1_gdc_realn_rehead,mtDNA,MT,5809.42
 2f973de3-769b-4ab3-8633-c1eb2f53a67f_gdc_realn_rehead,mtDNA,MT,5290.86
+2f9b92f8-8c19-41e3-896c-42f383616055_gdc_realn_rehead,mtDNA,MT,5910.98
 3001ec84-0cf6-478d-944d-31477f29682c_gdc_realn_rehead,mtDNA,MT,6233.36
 303660c7-e51c-425d-9432-f59b6b427b41_gdc_realn_rehead,mtDNA,MT,6625.95
 3053eba0-ea7d-4458-8d90-8529d9d9cd5b_gdc_realn_rehead,mtDNA,MT,6266.04
@@ -141,12 +147,14 @@ sample,name,mtDNA_ID,dosage
 3fba503a-4c2f-4909-a094-a9c4882afee5_gdc_realn_rehead,mtDNA,MT,5736.67
 4023042c-409b-433f-9c43-c719736a55ba_gdc_realn_rehead,mtDNA,MT,6213
 41481131-9b42-47bb-9f05-879007ad423c_gdc_realn_rehead,mtDNA,MT,5673.16
+418985cf-3f58-4673-9303-961204e7c470_gdc_realn_rehead,mtDNA,MT,5982.53
 4253cc98-350d-4c54-a98c-113d15cf6381_gdc_realn_rehead,mtDNA,MT,5791.07
 426159a8-d17a-4770-91ac-578ecdf46b8d_gdc_realn_rehead,mtDNA,MT,5856.58
 42722360-9f14-453c-851e-aadc068affcc_gdc_realn_rehead,mtDNA,MT,6497.44
 42da1d41-a034-4c87-af13-615a6d94d0bb_gdc_realn_rehead,mtDNA,MT,1204.41
 42de85be-ae4e-47c9-97d9-1b92f1f4569a_gdc_realn_rehead,mtDNA,MT,5429.06
 4340a3f4-4b56-432a-949a-655b5f74c2f7_gdc_realn_rehead,mtDNA,MT,5046.33
+43e6a77d-38e0-46b9-9040-e016ebcb6896_gdc_realn_rehead,mtDNA,MT,3642.6
 442b5275-5bf5-439b-9b82-2a2f49ede40e_gdc_realn_rehead,mtDNA,MT,5825.24
 4487bf18-eeee-41bd-a6e8-ae859042feda_gdc_realn_rehead,mtDNA,MT,5916.46
 44923b77-7082-4567-9712-1f05207b94d6_gdc_realn_rehead,mtDNA,MT,6408.85
@@ -163,6 +171,7 @@ sample,name,mtDNA_ID,dosage
 495752ac-1048-48c3-9791-623dbd116a1a_gdc_realn_rehead,mtDNA,MT,4202.6
 49ba6931-e906-45e7-9701-9f2b0b6e4df4_gdc_realn_rehead,mtDNA,MT,1489.47
 4a1266ef-4c35-48ce-ad81-2bb25f773ac9_gdc_realn_rehead,mtDNA,MT,2238.45
+4a32cc85-9d19-454f-8bcd-ca1328ed5be3_gdc_realn_rehead,mtDNA,MT,5784.02
 4aa332e6-b4ab-4f56-be49-e8170c64447c_gdc_realn_rehead,mtDNA,MT,4629.67
 4ad8a50e-5048-4c11-b2b3-4c67c0a4dbe7_gdc_realn_rehead,mtDNA,MT,5130.74
 4b71505f-f386-434f-9d99-a0741ae09ae2_gdc_realn_rehead,mtDNA,MT,5985.12
@@ -181,6 +190,7 @@ sample,name,mtDNA_ID,dosage
 54c0e424-f5cf-4fc9-8891-ab8ee8c10a8d_gdc_realn_rehead,mtDNA,MT,5154.73
 553fc948-c34d-4a39-ba90-007f43c989f7_gdc_realn_rehead,mtDNA,MT,5684.42
 55427b1d-4160-45fd-a5d4-a72d724e87b4_gdc_realn_rehead,mtDNA,MT,6813.11
+556e63fa-344b-4b8f-aeca-cd0bc66370d2_gdc_realn_rehead,mtDNA,MT,3818.94
 55878010-15f1-473e-9361-cf31e1780675_gdc_realn_rehead,mtDNA,MT,6438.1
 56466297-cbb3-4015-b7e5-5dc386bafaee_gdc_realn_rehead,mtDNA,MT,5927.22
 56885fdf-ae09-4478-be99-81bd282715eb_gdc_realn_rehead,mtDNA,MT,5929.19
@@ -202,6 +212,7 @@ sample,name,mtDNA_ID,dosage
 5e0d7cfd-bdd0-421a-8356-c3dba1558539_gdc_realn_rehead,mtDNA,MT,5769.57
 5e10a745-ce02-4f51-a10d-1d2ff6aa7705_gdc_realn_rehead,mtDNA,MT,5802.36
 5f0be065-3b20-46c4-955a-d5999c10de09_gdc_realn_rehead,mtDNA,MT,6353.15
+60efae24-e2d8-416c-ac92-c972c07b9c35_gdc_realn_rehead,mtDNA,MT,6261.52
 61274c16-dddd-4df9-815a-52bc8fdc2462_gdc_realn_rehead,mtDNA,MT,2539.3
 61ade99b-6f87-48d1-b094-51237e96a93f_gdc_realn_rehead,mtDNA,MT,4922.8
 61e4c92d-c8f5-45f9-a623-5477af66e193_gdc_realn_rehead,mtDNA,MT,5427.03
@@ -236,6 +247,7 @@ sample,name,mtDNA_ID,dosage
 6cf978de-3700-4532-812a-ea18e9db99d0_gdc_realn_rehead,mtDNA,MT,6061.15
 6d839a7d-c199-46ba-a724-567e412491f9_gdc_realn_rehead,mtDNA,MT,5933.78
 6dc766aa-8f14-45fb-9fda-91c3cad1b887_gdc_realn_rehead,mtDNA,MT,4801.69
+6dcb57d4-3e2c-4331-82ac-118c090939c8_gdc_realn_rehead,mtDNA,MT,6464.27
 6dd4b73b-402d-40c7-bdf9-88d9e0b884fd_gdc_realn_rehead,mtDNA,MT,5988.2
 6e3dbbf4-ea7c-438f-a944-55adb7c291d5_gdc_realn_rehead,mtDNA,MT,6194.58
 6e4ac635-355c-400e-ac34-b1dd2731083c_gdc_realn_rehead,mtDNA,MT,6050.89
@@ -250,6 +262,8 @@ sample,name,mtDNA_ID,dosage
 7089a19e-1191-43cb-8eb5-e727e3c11568_gdc_realn_rehead,mtDNA,MT,6827.25
 71422d62-6272-4057-a44c-dd1933eaa8b8_gdc_realn_rehead,mtDNA,MT,4822.29
 71ec6db2-83f0-46c0-bad4-eb6185f424dc_gdc_realn_rehead,mtDNA,MT,3739.01
+71f1c38b-f8a7-444c-bd95-4ba50b20b658_gdc_realn_rehead,mtDNA,MT,5812.94
+7237da0d-6f03-4ad6-ade0-53cdfa9d9d36_gdc_realn_rehead,mtDNA,MT,5022.22
 72554f0b-f5dc-4b2d-9bd4-e8905ea76a97_gdc_realn_rehead,mtDNA,MT,2872.95
 726e24ff-5bc5-4ca4-ba0e-921acd58de55_gdc_realn_rehead,mtDNA,MT,4474.88
 733f7529-2a95-4998-9ef6-ee51ee94219b_gdc_realn_rehead,mtDNA,MT,5848.6
@@ -268,6 +282,7 @@ sample,name,mtDNA_ID,dosage
 76a97a0e-a66b-4439-9b16-ea841f882758_gdc_realn_rehead,mtDNA,MT,4922.82
 77d538f8-67ac-46df-ae0d-1b5d15aca322_gdc_realn_rehead,mtDNA,MT,6031.97
 78c51f79-089a-42e5-acb7-4ba3daef41af_gdc_realn_rehead,mtDNA,MT,6582.22
+792a9dd3-28b5-42f5-aa23-e64f47995f9a_gdc_realn_rehead,mtDNA,MT,6253.2
 79c5c92d-4f9b-4495-b9ce-957581959297_gdc_realn_rehead,mtDNA,MT,5266.95
 7bf2426a-6731-4065-a201-8bce925a16f6_gdc_realn_rehead,mtDNA,MT,5400.44
 7c655f4f-eb75-41be-9aba-69dd050a6dd9_gdc_realn_rehead,mtDNA,MT,5550.97
@@ -285,6 +300,7 @@ sample,name,mtDNA_ID,dosage
 8240cbf4-714b-4f3e-8b66-1d54bcf5700c_gdc_realn_rehead,mtDNA,MT,5887.52
 824c3b4a-f4ef-4f2c-884b-7775b0c2c577_gdc_realn_rehead,mtDNA,MT,5061.94
 829fab3d-092a-48a2-9949-fc3fd625658d_gdc_realn_rehead,mtDNA,MT,4969.42
+83600741-60b2-459d-b47d-38d532dfe1fc_gdc_realn_rehead,mtDNA,MT,5186.85
 841873e1-5f4c-4021-945a-59dd15d96f87_gdc_realn_rehead,mtDNA,MT,5943.61
 8442e31c-0e0a-4106-8113-d8d648ea5139_gdc_realn_rehead,mtDNA,MT,5846.59
 846a989a-1bd0-482f-b093-a34f56557a17_gdc_realn_rehead,mtDNA,MT,6246.24
@@ -323,6 +339,7 @@ sample,name,mtDNA_ID,dosage
 932760c0-da82-4c5e-9ded-a16d66ab901f_gdc_realn_rehead,mtDNA,MT,5909.95
 93387379-19eb-49d9-8bd8-b788bc34f146_gdc_realn_rehead,mtDNA,MT,6304.13
 93698f1f-65e2-49d6-bc2a-1f7b720e4a35_gdc_realn_rehead,mtDNA,MT,4981.78
+951e0b63-e11e-4a2c-8ca3-539e57edf021_gdc_realn_rehead,mtDNA,MT,5003.44
 953f2f07-f163-43c9-9762-112d07533f4e_gdc_realn_rehead,mtDNA,MT,6347.76
 95426575-1918-4dcb-839a-5399bf441b71_gdc_realn_rehead,mtDNA,MT,6275.73
 964e7cc2-be12-46c0-9a48-9d680c3b45f2_gdc_realn_rehead,mtDNA,MT,6143.71
@@ -356,6 +373,7 @@ a09082f9-bad5-4f1c-a398-88baf7401bad_gdc_realn_rehead,mtDNA,MT,6683.94
 a1b7941c-ce5c-4c52-99fa-be6865291240_gdc_realn_rehead,mtDNA,MT,6095.27
 a39f7ad4-bfeb-45ca-bf5c-23c6ff1f0d7a_gdc_realn_rehead,mtDNA,MT,6039.54
 a4315a1f-9285-4dad-bad4-13c6d1f12516_gdc_realn_rehead,mtDNA,MT,4612.16
+a4a5c7e9-c536-4e87-b337-eb5a003ba9fe_gdc_realn_rehead,mtDNA,MT,5674.26
 a4d99f39-4f7a-4cbe-ad25-7b6c25b8e6a1_gdc_realn_rehead,mtDNA,MT,6272.46
 a53b56fb-04c3-402c-9236-0bdbd80da2b8_gdc_realn_rehead,mtDNA,MT,4497.95
 a54c5d55-6974-4261-bf32-b41ee24605d9_gdc_realn_rehead,mtDNA,MT,6408.27
@@ -375,6 +393,7 @@ ac4b4447-432f-4b81-9abc-dff196dd48be_gdc_realn_rehead,mtDNA,MT,5649.97
 ac545a99-b3ab-4917-836b-031903d738d3_gdc_realn_rehead,mtDNA,MT,5604.87
 ac930f2b-fa81-4cde-96f2-78484b647696_gdc_realn_rehead,mtDNA,MT,6070.37
 ad637a0e-cf79-4abf-b91d-4e3f578149c7_gdc_realn_rehead,mtDNA,MT,5681.55
+ad779f07-1d5e-4720-be52-4d031146349f_gdc_realn_rehead,mtDNA,MT,5113.22
 ada0db16-af3b-43ce-97e0-ffd75e7fcd66_gdc_realn_rehead,mtDNA,MT,5992.01
 ada7d989-08c8-4639-8298-e0ff3788b030_gdc_realn_rehead,mtDNA,MT,5983.69
 af2719bb-3eb8-4d96-add9-3f44ca91e6ae_gdc_realn_rehead,mtDNA,MT,2182.4
@@ -456,6 +475,7 @@ cf295bbd-412b-4069-8b65-5e2aeafa5860_gdc_realn_rehead,mtDNA,MT,4716.33
 cf848204-ab90-43d5-b51a-636e2ea53251_gdc_realn_rehead,mtDNA,MT,5324.89
 cfa6da64-1aaf-4768-b0e2-441f107b20b5_gdc_realn_rehead,mtDNA,MT,5694.79
 cfb9de97-4c33-4dc1-a215-eada38f46002_gdc_realn_rehead,mtDNA,MT,2522.5
+d036c11a-07b9-4ce3-b864-e6162006b99f_gdc_realn_rehead,mtDNA,MT,4946.69
 d04d83a4-fbe1-4b6a-a48d-2950394a67bb_gdc_realn_rehead,mtDNA,MT,5397.78
 d0979620-999f-44c7-9e8b-44548f7927ef_gdc_realn_rehead,mtDNA,MT,5669.7
 d0a10942-3ebe-4702-8a98-49be26383c1d_gdc_realn_rehead,mtDNA,MT,6129.63
@@ -478,6 +498,7 @@ d8183508-e323-4a1f-ac65-4b89c848247f_gdc_realn_rehead,mtDNA,MT,4894.44
 d8a50613-18b9-4b66-bbb2-2e602181e159_gdc_realn_rehead,mtDNA,MT,5054.06
 d8bf6c8b-b1ef-4bd2-80dd-4942a92004ff_gdc_realn_rehead,mtDNA,MT,6125.74
 d908f378-a7f0-4f06-8e44-1da223489b11_gdc_realn_rehead,mtDNA,MT,5969.7
+d9108047-f316-4592-ae17-21e3f814f430_gdc_realn_rehead,mtDNA,MT,5687.11
 db070141-5d9d-448c-9f97-a0737762c9c2_gdc_realn_rehead,mtDNA,MT,4192.36
 db5ec268-8a17-42af-98c9-b9101ba35b4e_gdc_realn_rehead,mtDNA,MT,6383
 dbfa3bd7-1875-4d2f-9ff2-3c44e7f00a63_gdc_realn_rehead,mtDNA,MT,5025.37
@@ -490,8 +511,9 @@ de224e71-2a83-4a83-b224-5d2f5e2634d6_gdc_realn_rehead,mtDNA,MT,6426.19
 de3be65f-e5f2-4cd1-8617-c8ca750d26c6_gdc_realn_rehead,mtDNA,MT,4973.35
 df2b8be0-d350-4040-b7e0-3010af884088_gdc_realn_rehead,mtDNA,MT,6268
 df3bbe0f-5c32-4a81-9826-95ddf6c023d9_gdc_realn_rehead,mtDNA,MT,6098.62
+df834a10-2831-4dc4-b627-393d25f3b802_gdc_realn_rehead,mtDNA,MT,5245.12
 df879d51-77e7-4e0e-a971-fee30a730693_gdc_realn_rehead,mtDNA,MT,6717.68
-e0b53534-5cb2-47aa-9307-038b5774047f_gdc_realn_rehead,mtDNA,MT,0
+e0b53534-5cb2-47aa-9307-038b5774047f_gdc_realn_rehead,mtDNA,MT,5829.82
 e1401cdb-f005-41c9-b6bc-4d0f16b9fe0a_gdc_realn_rehead,mtDNA,MT,6022.01
 e2719657-ea1e-4320-8ddf-71d6d38edc59_gdc_realn_rehead,mtDNA,MT,6440.13
 e3a8f442-5157-4153-8ca1-9dfb11b8992c_gdc_realn_rehead,mtDNA,MT,6071.06
@@ -513,6 +535,7 @@ e7a13a3e-e7d4-460b-a3ed-3743c53539e8_gdc_realn_rehead,mtDNA,MT,5989.22
 e83ffc55-add9-4950-9bc4-d6b096b41b85_gdc_realn_rehead,mtDNA,MT,6191.97
 e8a61b15-385b-4315-8186-d5861329d1af_gdc_realn_rehead,mtDNA,MT,2843.67
 e958ee07-138e-4a6d-a636-162fb43415f7_gdc_realn_rehead,mtDNA,MT,5640.41
+e97040ce-2652-417b-986c-d7955b149486_gdc_realn_rehead,mtDNA,MT,6681.9
 eb1730cb-d70f-42c0-baff-9c184624fafe_gdc_realn_rehead,mtDNA,MT,3944.07
 ebc14cb5-9fc1-4e53-9bcd-12f7cd8abd5b_gdc_realn_rehead,mtDNA,MT,5479.26
 ebc9000d-cd65-4bef-9970-05ac2765c635_gdc_realn_rehead,mtDNA,MT,1163.48
@@ -521,6 +544,7 @@ ec1f4523-1e3c-40ea-b1ca-9c8d45c4b2f1_gdc_realn_rehead,mtDNA,MT,5969.7
 ec3083b6-01bf-4786-b497-6386cf8c8c2f_gdc_realn_rehead,mtDNA,MT,5598.91
 ec45c6b7-4f9d-4ed0-88c5-e299bb080796_gdc_realn_rehead,mtDNA,MT,2883.57
 ed62afa2-3aba-4145-87cf-81fd83995bcc_gdc_realn_rehead,mtDNA,MT,5637.62
+ed7cb4ed-535d-4a6a-b69f-f32e36a70bfa_gdc_realn_rehead,mtDNA,MT,5710.53
 ede95e93-3dbc-4466-a13b-3760fdac6725_gdc_realn_rehead,mtDNA,MT,6653.71
 edec2c3f-f55f-49f8-aef2-06a59b916223_gdc_realn_rehead,mtDNA,MT,6025.03
 edf8425b-8f0e-46d0-9414-c3c34bdd1825_gdc_realn_rehead,mtDNA,MT,3759
@@ -549,6 +573,7 @@ f7f51052-0994-49aa-b55a-f84b21429e80_gdc_realn_rehead,mtDNA,MT,1555.3
 f80010ab-f72c-4bca-864d-e36fef38d2f6_gdc_realn_rehead,mtDNA,MT,6640.76
 f961d2bf-a79d-424e-bdde-b61be23a812d_gdc_realn_rehead,mtDNA,MT,6919.31
 f9b76a95-3662-4d4f-af06-0c2c270934fe_gdc_realn_rehead,mtDNA,MT,5923.5
+fa48365f-fe1b-44e6-94fc-c52b8a1ed7a0_gdc_realn_rehead,mtDNA,MT,6103.81
 fa7246ef-c9ef-4494-9a5c-31b6eb90e802_gdc_realn_rehead,mtDNA,MT,4632.7
 fa78346e-fefc-402c-90ed-9eb47b7535c9_gdc_realn_rehead,mtDNA,MT,4496.95
 fa873c9a-307c-4648-bc8e-7f378cba203b_gdc_realn_rehead,mtDNA,MT,6085.31
