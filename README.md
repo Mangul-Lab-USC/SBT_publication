@@ -43,4 +43,4 @@ This repository is under GPLv3 license. For more information, please read our [L
 
 # Contact
 
-Please do not hesitate to contact us (smangul@ucla.edu) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to this resource.
+Please do not hesitate to contact us (serghei.mangul@gmail.com) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to this resource.
